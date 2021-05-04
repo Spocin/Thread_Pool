@@ -1,0 +1,1 @@
+java --module-path "%JAVAFX%" --add-modules javafx.controls,javafx.fxml -jar "Thread Pool.jar"
